@@ -1,1 +1,2 @@
-go_app/go-todo/mongo/
+./app/todo/mongo/
+./app/jwt-project/mongo/
